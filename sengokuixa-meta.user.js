@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name           sengokuixa-meta
 // @description    戦国IXAを変態させるツール
-// @version        1.6.2.1
+// @version        1.6.2.1'
 // @namespace      sengokuixa-meta
 // @include        http://*.sengokuixa.jp/*
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
-// @website        https://github.com/moonlit-g/sengokuixa-meta
-// @updateURL      https://raw.githubusercontent.com/moonlit-g/sengokuixa-meta/master/sengokuixa-meta.meta.js
+// @website        https://github.com/For-ixa-meta/for-meta
+// @updateURL      https://raw.githubusercontent.com/For-ixa-meta/for-meta/master/sengokuixa-meta.meta.js
 // @grant          unsafeWindow
 // @grant          GM_addStyle
 // @grant          GM_openInTab
