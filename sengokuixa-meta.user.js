@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           sengokuixa-meta
 // @description    戦国IXAを変態させるツール
-// @version        1.6.2.1'
+// @version        1.6.2.1'b
 // @namespace      sengokuixa-meta
 // @include        http://*.sengokuixa.jp/*
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
@@ -2946,7 +2946,7 @@ var Append = {
 								union_type  : 5,
 								exec_btn    : 1,
 								sub_id      : '',
-								ad_id       : 33,
+								//ad_id       : 33,
 							};
 							// ad_idはイベント期間限定っぽい
 
