@@ -2946,7 +2946,7 @@ var Append = {
 								union_type  : 5,
 								exec_btn    : 1,
 								sub_id      : '',
-								//ad_id       : 33,
+								ad_id       : 38,
 							};
 							// ad_idはイベント期間限定っぽい
 
